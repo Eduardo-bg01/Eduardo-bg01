@@ -22,11 +22,4 @@ Welcome! I'm Eduardo — a developer exploring projects, learning new technologi
 ### Contact
 
 - GitHub: [@Eduardo-bg01](https://github.com/Eduardo-bg01)
-
----
-
-### Customize this README
-
-To customize the badges above, edit the image URLs — change the `username` parameter to your GitHub username (it's already set), or the `theme` parameter. Example themes: `tokyonight`, `radical`, `dark`, `light`, `gruvbox`. See https://github.com/anuraghazra/github-readme-stats for more options.
-
-If you want additional sections (projects, blog, work experience), tell me what to include and I'll add them.
+- LinkedIn: [Eduardo Beltran](https://www.linkedin.com/in/eduardo-bg/)
