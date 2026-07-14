@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-[![Top Langs](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Eduardo's GitHub Stats](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Eduardo-bg01/Eduardo-bg01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
