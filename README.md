@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome! I'm Eduardo — a developer exploring projects, learning new technologies, and sharing code. This is a simple profile README to show off GitHub stats and give visitors a quick intro.
+Welcome! I'm Eduardo — a developer exploring projects, learning new technologies, and sharing code.
 
 ---
 
@@ -11,13 +11,6 @@ Welcome! I'm Eduardo — a developer exploring projects, learning new technologi
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-bg01&layout=compact&theme=tokyonight)](https://github.com/Eduardo-bg01)
 
 ---
-
-### About me
-
-- 🔭 I’m currently working on: learning and building small projects
-- 🌱 I’m currently learning: JavaScript, Python, and tooling
-- 👯 I’m looking to collaborate on: open-source projects and learning-focused repos
-- 💬 Ask me about: anything I'm learning — I'm happy to connect
 
 ### Contact
 
