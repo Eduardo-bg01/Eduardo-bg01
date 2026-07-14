@@ -14,5 +14,5 @@ Welcome! I'm Eduardo — a developer exploring projects, learning new technologi
 
 ### Contact
 
-- GitHub: [@Eduardo-bg01](https://github.com/Eduardo-bg01)
+- GitHub: [Eduardo-bg01](https://github.com/Eduardo-bg01)
 - LinkedIn: [Eduardo Beltran](https://www.linkedin.com/in/eduardo-bg/)
