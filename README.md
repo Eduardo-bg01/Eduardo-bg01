@@ -18,27 +18,6 @@ manufacturing processes.
 - Data Analysis & Reporting
 - Git / GitHub
 
-## Featured Project
-
-### Lenovo Diagnostics Management System
-
-A full-stack web application designed to support manufacturing
-quality-control and diagnostic processes.
-
-**Stack:** Python · Flask · PostgreSQL · SQL · Tailwind CSS
-
-## Languages
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-bg01&layout=donut&langs_count=10&theme=tokyonight&hide_border=true"
-  height="300"
-  alt="Top Languages"
-/>
-
-</div>
-
 ## Connect with me
 
 - [LinkedIn](YOUR-LINKEDIN)
