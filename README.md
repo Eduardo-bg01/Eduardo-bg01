@@ -31,9 +31,10 @@ quality-control and diagnostic processes.
 
 <div align="center">
 
-<img src="YOUR-SELF-HOSTED-STATS-URL" height="180" />
-
-<img src="YOUR-SELF-HOSTED-TOP-LANGS-URL" height="180" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-bg01&layout=donut&langs_count=10&theme=tokyonight&hide_border=true"
+  height="300"
+/>
 
 </div>
 
