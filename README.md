@@ -27,13 +27,14 @@ quality-control and diagnostic processes.
 
 **Stack:** Python · Flask · PostgreSQL · SQL · Tailwind CSS
 
-## GitHub Stats
+## Languages
 
 <div align="center">
 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-bg01&layout=donut&langs_count=10&theme=tokyonight&hide_border=true"
   height="300"
+  alt="Top Languages"
 />
 
 </div>
