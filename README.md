@@ -20,5 +20,4 @@ manufacturing processes.
 
 ## Connect with me
 
-- [LinkedIn](YOUR-LINKEDIN)
-- [GitHub](https://github.com/Eduardo-bg01)
+- [LinkedIn](linkedin.com/in/eduardo-bg/)
