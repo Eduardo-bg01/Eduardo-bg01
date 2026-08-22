@@ -17,7 +17,3 @@ manufacturing processes.
 - Windows Automation
 - Data Analysis & Reporting
 - Git / GitHub
-
-## Connect with me
-
-- [LinkedIn](linkedin.com/in/eduardo-bg/)
